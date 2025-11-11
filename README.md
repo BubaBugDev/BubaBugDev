@@ -25,7 +25,7 @@
 
 ## 🚀 Mi Stack Tecnológico
 
-<table>
+<table valign="center">
   <tr>
     <td valign="top">
       <h3 align="left">Frontend:</h3>
