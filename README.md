@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BubaBugDev/BubaBugDev/blob/main/banner" alt="Banner de Duberney Cardona" width="800"> 
+  <img src="[https://raw.githubusercontent.com/BubaBugDev/BubaBugDev/blob/main/banner](https://github.com/BubaBugDev/BubaBugDev/raw/refs/heads/main/Banner)" alt="Banner de Duberney Cardona" width="800"> 
   <br>
   <img src="https://komarev.com/ghpvc/?username=BubaBugDev&color=red&style=flat-square" alt="Contador de Vistas del Perfil" />
 </p>
