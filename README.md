@@ -25,8 +25,8 @@
 ## 🚀 Mi Stack Tecnológico
 
 <table align="center">
-  <tr>
-        <td valign="top" width="50%"> 
+    <tr>
+    <td valign="top">
       <h3 align="left">Frontend:</h3>
       <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
       <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
@@ -35,7 +35,9 @@
       <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular">
       <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js">
     </td>
-        <td valign="top" width="50%">
+  </tr>
+    <tr>
+    <td valign="top">
       <h3 align="left">Backend:</h3>
       <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
       <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
@@ -43,14 +45,16 @@
       <img src="https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" alt="Ruby">
     </td>
   </tr>
-  <tr>
-        <td valign="top" width="50%">
+    <tr>
+    <td valign="top">
       <h3 align="left">Bases de Datos:</h3>
       <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
       <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
       <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
     </td>
-        <td valign="top" width="50%">
+  </tr>
+    <tr>
+    <td valign="top">
       <h3 align="left">Herramientas y DevOps:</h3>
       <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
       <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
@@ -59,7 +63,6 @@
     </td>
   </tr>
 </table>
-
 ---
 
 ---
