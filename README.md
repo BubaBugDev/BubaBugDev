@@ -8,7 +8,8 @@
 
 <p align="center">
   <img src="https://github.com/BubaBugDev/BubaBugDev/raw/refs/heads/main/Banner" alt="Banner de Duberney Cardona" width="800"> 
-
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=BubaBugDev&color=red&style=flat-square" alt="Contador de Vistas del Perfil" />
 </p>
 
 ---
@@ -23,6 +24,7 @@
 ---
 
 ## 🚀 Mi Stack Tecnológico
+
 <table align="center">
     <tr>
     <td valign="top" width="50%">
@@ -32,17 +34,17 @@
         <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="28">
         <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="28">
         <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" height="28">
-        <img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" height="28">
         <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" height="28">
+        <img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" height="28">
       </p>
     </td>
     <td valign="top" width="50%">
             <h3 align="center">Backend:</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" height="28">
-        <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="28">
         <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" height="28">
         <img src="https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" height="28">
+        <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="28">
       </p>
     </td>
   </tr>
