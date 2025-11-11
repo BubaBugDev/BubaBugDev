@@ -70,8 +70,6 @@
 </table>
 ---
 
----
-
 ## 📊 Mis Estadísticas de GitHub
 
 <p align="center">
