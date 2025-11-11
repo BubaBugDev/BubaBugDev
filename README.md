@@ -83,9 +83,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BubaBugDev&theme=radical" alt="Racha de Contribuciones" />
 </p>
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/BubaBugDev" alt="Gráfico de Contribuciones" />
-</p>
+
 
 ---
 
