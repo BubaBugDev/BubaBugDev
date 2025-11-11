@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://github.com/BubaBugDev/BubaBugDev/raw/refs/heads/main/Banner" alt="Banner de Duberney Cardona" width="800"> 
   <p></p>
-  <br>
+  <br align="center">
   <img src="https://komarev.com/ghpvc/?username=BubaBugDev&color=red&style=flat-square" alt="Contador de Vistas del Perfil" />
 </p>
 
