@@ -4,12 +4,11 @@
 
 <p align="center">
   Un apasionado desarrollador - Frontend/Backend/Datos/AI/Móvil
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=BubaBugDev&color=red&style=flat-square" alt="Contador de Vistas del Perfil" />
 </p>
 
 <p align="center">
   <img src="https://github.com/BubaBugDev/BubaBugDev/raw/refs/heads/main/Banner" alt="Banner de Duberney Cardona" width="800"> 
+  <p></p>
   <br>
   <img src="https://komarev.com/ghpvc/?username=BubaBugDev&color=red&style=flat-square" alt="Contador de Vistas del Perfil" />
 </p>
@@ -21,7 +20,7 @@
 * 🌱 Estoy aprendiendo **Python e Inteligencia Artificial**.
 * 🤝 Busco colaborar en **proyectos innovadores**.
 * 💬 Pregúntame sobre **datos**.
-* ⚡ Dato curioso: **Soy ingeniero en sonido**.
+* ⚡ Dato curioso: **También soy ingeniero en sonido**.
 
 ---
 
