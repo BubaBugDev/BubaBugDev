@@ -26,7 +26,7 @@
 <table align="center">
     <tr>
     <td valign="top" width="50%">
-      <h3 align="left">Frontend:</h3>
+            <h3 align="center">Frontend:</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="28">
         <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="28">
@@ -37,7 +37,7 @@
       </p>
     </td>
     <td valign="top" width="50%">
-      <h3 align="left">Backend:</h3>
+            <h3 align="center">Backend:</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" height="28">
         <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="28">
@@ -48,7 +48,7 @@
   </tr>
     <tr>
     <td valign="top" width="50%">
-        <h3 align="left">Bases de Datos:</h3>
+              <h3 align="center">Bases de Datos:</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="28">
         <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" height="28">
@@ -56,7 +56,7 @@
       </p>
     </td>
     <td valign="top" width="50%">
-      <h3 align="left">Herramientas y DevOps:</h3>
+            <h3 align="center">Herramientas y DevOps:</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="28">
         <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" height="28">
