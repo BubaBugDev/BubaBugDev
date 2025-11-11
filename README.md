@@ -1,11 +1,11 @@
 <h1 align="center">
-  ¡Hola! 👋 Soy [Tu Nombre]
+  ¡Hola! 👋 Soy Duberney Cardona
 </h1>
 
 <p align="center">
-  Un apasionado desarrollador [Frontend/Backend/Fullstack/Móvil] de [Tu País] 🌎
+  Un apasionado desarrollador - Frontend/Backend/Datos/AI/Móvil
   <br>
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO_AQUÍ&color=blue&style=flat-square" alt="Contador de Vistas del Perfil" />
+  <img src="https://komarev.com/ghpvc/?username=BubaBugDev&color=purple&style=flat-square" alt="Contador de Vistas del Perfil" />
 </p>
 
 <p align="center">
