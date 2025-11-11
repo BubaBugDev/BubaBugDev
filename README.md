@@ -9,7 +9,9 @@
 </p>
 
 <p align="center">
-  <img src="https_://media.giphy.com/media/your-cool-gif-url.gif" alt="Coding GIF">
+  <img src="https://raw.githubusercontent.com/BubaBugDev/BubaBugDev/blob/main/banner" alt="Banner de Duberney Cardona" width="800"> 
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=BubaBugDev&color=red&style=flat-square" alt="Contador de Vistas del Perfil" />
 </p>
 
 ---
