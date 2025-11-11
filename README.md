@@ -16,11 +16,10 @@
 
 ## 👨‍💻 Sobre Mí
 
-* 🔭 Actualmente estoy trabajando en **[Nombre de tu Proyecto o Empresa]**.
-* 🌱 Estoy aprendiendo **[Tecnología que estés aprendiendo]**.
-* 🤝 Busco colaborar en **[Tipo de proyectos en los que te gustaría colaborar]**.
-* 💬 Pregúntame sobre **[Temas en los que eres experto]**.
-* ⚡ Dato curioso: **[Un dato divertido sobre ti]**.
+* 🌱 Estoy aprendiendo **Python e Inteligencia Artificial**.
+* 🤝 Busco colaborar en **proyectos innovadores**.
+* 💬 Pregúntame sobre **datos**.
+* ⚡ Dato curioso: **Soy ingeniero en sonido**.
 
 ---
 
