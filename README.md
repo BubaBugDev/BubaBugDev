@@ -80,7 +80,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BubaBugDev&theme=radical" alt="Racha de Contribuciones" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=BubaBugDev&theme=radical" alt="Racha de Contribuciones" />
 </p>
 
 ---
