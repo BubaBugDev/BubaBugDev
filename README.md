@@ -76,13 +76,9 @@
 
 <p align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BubaBugDev&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
-  
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BubaBugDev&layout=compact&langs_count=8&theme=radical&count_private=true" alt="Top Lenguajes" />
 </p>
 
-<p align="center">
-    <img src="https://github-readme-streak-stats.vercel.app/?user=BubaBugDev&theme=radical" alt="Racha de Contribuciones" />
-</p>
 
 ---
 
